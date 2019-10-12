@@ -2,6 +2,7 @@
   "name": "youtube-react-app",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://rawaldeep.github.io/youtubereactapp/",
   "dependencies": {
     "@material-ui/core": "^4.4.3",
     "@material-ui/styles": "^4.4.3",
